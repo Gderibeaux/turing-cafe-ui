@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Reservations from "../Reservations/Reservations";
-import { fetchReservations } from "../apiCalls.js";
+// import { fetchReservations } from "../apiCalls.js";
 // import { Route } from 'react-router-dom';
 
 
